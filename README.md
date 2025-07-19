@@ -15,4 +15,10 @@
 
 > These charts show my GitHub activity and top used languages, reflecting the diversity and depth of my projects—from web builds to system-level tinkering.
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urmoit/urmoit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urmoit/urmoit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/urmoit/urmoit/output/pacman-contribution-graph.svg">
+</picture>
