@@ -14,3 +14,5 @@
 </div>
 
 > These charts show my GitHub activity and top used languages, reflecting the diversity and depth of my projects—from web builds to system-level tinkering.
+
+---
