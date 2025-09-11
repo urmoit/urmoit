@@ -1,8 +1,13 @@
-
 <div align="center">
   <h1>🌐 Welcome to Urmoit</h1>
   <p>A coding playground built by curiosity and creativity.</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=urmoit.urmoit&" />
+  
+  <!-- Buy Me a Coffee button -->
+  <br><br>
+  <a href="https://buymeacoffee.com/urmoit" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
 </div>
 
 ---
